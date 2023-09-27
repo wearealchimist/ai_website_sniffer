@@ -5,7 +5,7 @@ _To clone repo just execute this command in your shell :_
 
 git clone https://github.com/wearealchimist/ai_website_sniffer.git
 
-_To launch it just execute the shell : 
+_To launch it just execute the shell :_
 
 python3 ./ai_website_sniffer.py
 
