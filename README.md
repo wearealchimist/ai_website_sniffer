@@ -4,3 +4,8 @@ This program performs several tasks, including retrieving online data, processin
 _To clone repo just execute this command in your shell :_
 
 git clone https://github.com/wearealchimist/ai_website_sniffer.git
+
+_To launch it just execute the shell : 
+
+python3 ./ai_website_sniffer.py
+
