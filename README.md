@@ -9,3 +9,5 @@ _To launch it just execute the shell :_
 
 python3 ./ai_website_sniffer.py
 
+/!\ WARNING USE THIS PROGRAM CAREFULLY AND HAVE ALL PERMISSIONS REQUIRED, THERE MAY ALSO BE SECURITY ISSUES ON THIS FIRST VERSION /!\ 
+
